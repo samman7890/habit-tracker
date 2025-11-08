@@ -1,0 +1,53 @@
+Habit Tracker
+
+A simple Habit Tracker web app built with HTML, CSS, and JavaScript (Vanilla JS).
+It allows users to add habits, track daily progress for the last seven days, and view their streaks.
+All data is stored locally in the browser with no server required.
+
+Features
+
+Add and delete habits instantly
+Tick daily progress for the past seven days
+Automatic streak counter showing consecutive days completed
+Data saved automatically using localStorage
+Export and import data via JSON file for backup
+Accessible and keyboard-friendly (Tab, Space, and Enter support)
+Runs directly in the browser with no installation needed
+##Technologies Used
+
+HTML5 – structure
+CSS3 – styling and layout
+Vanilla JavaScript (ES6) – logic, DOM manipulation, and localStorage
+GitHub Pages – hosting and deployment
+##How to Run Locally
+
+Download the project as a ZIP from GitHub or clone it.
+Open the folder and double-click index.html.
+The app will open in your browser.
+Reflection
+
+During this project, I learned how to create a complete front-end application using only HTML, CSS, and JavaScript without relying on frameworks.
+The key challenge was learning to dynamically manipulate the DOM and store user data persistently with localStorage.
+I also learned how to structure a clean interface and make the app accessible using ARIA labels and keyboard controls.
+
+Another important learning outcome was understanding how to deploy a static website using GitHub Pages.
+This helped me see how a project can go live without the need for a server or database.
+
+If I were to improve this project, I would add features such as custom date ranges, editable habits, or a progress chart for better visualization.
+Overall, this project strengthened my skills in JavaScript logic, event handling, and building interactive web applications.
+
+Demo Video
+
+Watch the demo (3–5 minutes):
+[Add your YouTube or Canvas video link here]
+
+Suggested video structure:
+
+Introduction (1 minute): Your name, project title, and purpose.
+Overview (1–2 minutes): Explain key features and design.
+Demo (1–2 minutes): Show adding, toggling, and deleting habits.
+Conclusion (30–60 seconds): Reflect on challenges and what you learned.
+Live Demo
+
+Live app: https://samman7890.github.io/habit-tracker/
+
