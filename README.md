@@ -51,8 +51,8 @@ Overall, this project strengthened my skills in JavaScript logic, event handling
 
 ## Demo Video
 
-Watch the demo (3–5 minutes):  
-[Canvas video link here]
+Watch the demo:  
+https://video.laurea.fi/media/Habit%20tracker%20Demo/0_lxo2fhfs
 
 
 ---
