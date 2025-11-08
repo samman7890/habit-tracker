@@ -1,6 +1,6 @@
 # Habit Tracker
 
-A simple Habit Tracker web app built with **HTML**, **CSS**, and **JavaScript (Vanilla JS)**.  
+A simple Habit Tracker web app built with **HTML**, **CSS**, and **JavaScript**.  
 It allows users to add habits, track daily progress for the last seven days, and view their streaks.  
 All data is stored locally in the browser with no server required.
 
