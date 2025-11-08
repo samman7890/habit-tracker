@@ -59,6 +59,6 @@ Watch the demo (3–5 minutes):
 
 ## Live Demo
 
-Live app: [https://samman7890.github.io/habit-tracker/](https://samman7890.github.io/habit-tracker/)
+Live app: https://samman7890.github.io/habit-tracker/
 
 ---
