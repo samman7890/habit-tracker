@@ -82,7 +82,6 @@ This introduced me to Continuous Integration (CI), where code is verified automa
 
 ![CI Check]- (https://github.com/samman7890/habit-tracker/actions/workflows/ci.yml/badge.svg) (https://github.com/samman7890/habit-tracker/actions/workflows/ci.yml)
 
-## Self Assessment 
 
 ---
 
