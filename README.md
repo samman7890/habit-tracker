@@ -63,6 +63,17 @@ Live app: https://samman7890.github.io/habit-tracker/
 
 ---
 
+## Screenshot
+
+Main Interface:
+<img width="1439" height="812" alt="Main interface" src="https://github.com/user-attachments/assets/e9038efd-acec-4122-8623-ffc76194505b" />
+
+Adding and Tracking habits:
+<img width="1439" height="813" alt="Adding and tracking habits" src="https://github.com/user-attachments/assets/3eccc8f0-e81b-4853-a453-4d6ac2ad3f98" />
+
+
+
+
 ## DevOps Learning (Optional)
 
 This project includes a basic CI workflow using **GitHub Actions**.  
