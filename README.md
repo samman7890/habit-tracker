@@ -82,3 +82,21 @@ This introduced me to Continuous Integration (CI), where code is verified automa
 
 ![CI Check]- (https://github.com/samman7890/habit-tracker/actions/workflows/ci.yml/badge.svg) (https://github.com/samman7890/habit-tracker/actions/workflows/ci.yml)
 
+## Self Assessment 
+
+---
+
+## Self-Assessment
+
+| Criterion | My Assessment | Comments |
+|------------|----------------|-----------|
+| **A. Core Functionality** | ✅ Excellent (10/10) | All main features (add/delete/toggle habits, streaks, export/import) work correctly. |
+| **B. Code Quality & Architecture** | ✅ Clean & Coherent (5/5) | Code is modular, well-commented, and uses localStorage safely. |
+| **C. UX & Accessibility** | ✅ Strong UX & A11y (5/5) | Fully responsive, keyboard-friendly, clear contrast and layout. |
+| **D. Data Handling & Persistence** | ✅ Safe & Reliable (4/4) | Uses try/catch and localStorage with proper checks. |
+| **E. Documentation** | ✅ Complete & Clear (3/3) | README includes all sections, reflection, and screenshots. |
+| **F. Deployment** | ✅ Live & Tidy (3/3) | Deployed on GitHub Pages with working link. |
+| **G. Demo Video & Reflection** | ✅ Excellent (5/5) | Clear 3–5 min video explaining problem, solution, and learning. |
+
+**Total:** 35 / 35 ✅
+
