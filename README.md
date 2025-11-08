@@ -52,7 +52,7 @@ Overall, this project strengthened my skills in JavaScript logic, event handling
 ## Demo Video
 
 Watch the demo (3–5 minutes):  
-[Add your YouTube or Canvas video link here]
+[Canvas video link here]
 
 
 ---
